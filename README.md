@@ -1,2 +1,2 @@
-# Scraping-Washington-Post---Milutin-Milankovic
+# Scraping-Britannica-Milutin-Milankovic
 The Serbian astrophysicist
